@@ -1,0 +1,4 @@
+1. Banana - $20
+2. Apple - $45
+3. Orange - $90
+Total price: $155
